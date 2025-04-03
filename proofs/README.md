@@ -6,7 +6,6 @@ Circom is a programming language and a toolchain for building and verifying zero
 ```bash
 npm i
 npm run build
-npm run setup
 npm run verify
 npm run generate-verifier
 ```
